@@ -1,4 +1,3 @@
-Got it — full single complete README, no omissions.
 
 ```md
 # 🪂 Merkle Airdrop Protocol (Foundry Edition)
